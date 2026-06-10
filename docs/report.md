@@ -2,7 +2,7 @@
 
 ФИО: Гаврилов Владислав
 Группа: РПО/1
-Ссылка на GitHub: https://github.com/skyblack94143-web
+Ссылка на GitHub: https://github.com/skyblack94143-web/student-task-journal-gavrilov_vlad
 
 ## Выполненные коммиты
 1. init: add project description
